@@ -2,7 +2,6 @@
 ### I'm ShZil!
 
 #### 📫 Reach me on:
-- [YouTube](https://www.youtube.com/channel/UCqldfULto9JNa4lXbpM6Oxg)🔺
 - [GitHub](https://github.com/ShZil)🖥️
 - [Instagram](https://www.instagram.com/shzilofficial/)🖼️
 - [Email](shzil333@gmail.com)📧
