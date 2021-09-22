@@ -1,11 +1,6 @@
 ## Hi there 👋
 ### I'm ShZil!
 
-#### 📫 Reach me on:
-- [GitHub](https://github.com/ShZil)🖥️
-- [Instagram](https://www.instagram.com/shzilofficial/)🖼️
-- [Email](shzil333@gmail.com)📧
-
 😄 **Pronouns:** He, him / they, their.
 
 #### 🔭 My repositories:
@@ -43,5 +38,4 @@ alt="SQL"
 height="50"/>
 
 #### ⚡ Summary:
-Enjoy looking through my GitHub code and Social Media!
-I will reply to messages, mostly.
+Enjoy looking through my GitHub code!
