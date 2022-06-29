@@ -1,8 +1,6 @@
 ## Hi there 👋
 ### I'm ShZil!
 
-😄 **Pronouns:** He, him / they, their.
-
 #### 🔭 My repositories:
 Can be found [here](https://github.com/ShZil?tab=repositories)!
 Each one is special. Some are for simple, reusable code, some for more complex, to-download code.
