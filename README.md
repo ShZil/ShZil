@@ -31,7 +31,10 @@ height="50"/>, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/
 alt="HTML5"
 height="50"/>, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
 alt="CSS3"
-height="50"/>, <img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png"
+height="50"/>,
+<img src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png"
+     alt="Assembly", height="50"/>,
+     <img src="https://cloudblogs.microsoft.com/uploads/prod/sites/32/2020/05/SQL.png"
 alt="SQL"
 height="50"/>
 
