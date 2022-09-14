@@ -3,7 +3,7 @@
 
 #### 🔭 My repositories:
 Can be found [here](https://github.com/ShZil?tab=repositories)!
-Each one is special. Some are for simple, reusable code, some for more complex, to-download code.
+Each one is special. Some are for simple, reusable code; some for more complex, to-download code.
 
 ⚖️ You may use my code according to the specific license written in the code or repository data, and if none present the default license is
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="CC-BY" width="100"> (https://creativecommons.org/licenses/by/4.0/)
